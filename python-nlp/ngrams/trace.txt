@@ -1,0 +1,36 @@
+S =  Wolf 
+
+Unigrams: logprob(S) = -10.6569
+Bigrams: logprob(S) = undefined
+Smoothed Bigrams: logprob(S) = -11.6799
+
+S =  Widespread panic 
+
+Unigrams: logprob(S) = -26.9286
+Bigrams: logprob(S) = undefined
+Smoothed Bigrams: logprob(S) = -22.1067
+
+S =  I don't trust horses .  
+
+Unigrams: logprob(S) = -42.7229
+Bigrams: logprob(S) = -15.1491
+Smoothed Bigrams: logprob(S) = -45.0726
+
+S =  I swear I am not making this up .  
+
+Unigrams: logprob(S) = -74.1429
+Bigrams: logprob(S) = -28.6793
+Smoothed Bigrams: logprob(S) = -80.6216
+
+S =  Never forget your froggy . 
+
+Unigrams: logprob(S) = -51.1322
+Bigrams: logprob(S) = undefined
+Smoothed Bigrams: logprob(S) = -56.3991
+
+S =  Little did I know that a treacherous lizard addressed 300,000 scientists . 
+
+Unigrams: logprob(S) = -119.3167
+Bigrams: logprob(S) = undefined
+Smoothed Bigrams: logprob(S) = -133.7532
+

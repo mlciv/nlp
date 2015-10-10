@@ -1,0 +1,122 @@
+S = Wolf
+
+Unigrams: logprob(S) = -10.6569
+Bigrams: logprob(S) = undefined
+Smoothed Bigrams: logprob(S) = -11.6799
+
+S = Widespread panic
+
+Unigrams: logprob(S) = -26.9286
+Bigrams: logprob(S) = undefined
+Smoothed Bigrams: logprob(S) = -22.1067
+
+S = I don't trust horses . 
+
+Unigrams: logprob(S) = -42.7229
+Bigrams: logprob(S) = -15.1491
+Smoothed Bigrams: logprob(S) = -45.0726
+
+S = I swear I am not making this up . 
+
+Unigrams: logprob(S) = -74.1429
+Bigrams: logprob(S) = -28.6793
+Smoothed Bigrams: logprob(S) = -80.6216
+
+S = Never forget your froggy .
+
+Unigrams: logprob(S) = -51.1322
+Bigrams: logprob(S) = undefined
+Smoothed Bigrams: logprob(S) = -56.3991
+
+S = Little did I know that a treacherous lizard addressed 300,000 scientists . 
+
+Unigrams: logprob(S) = -119.3167
+Bigrams: logprob(S) = undefined
+Smoothed Bigrams: logprob(S) = -133.7532
+
+generate with seeds.txt
+Seed = I
+
+Sentence 1: I were supposed to decapitate her husband , however , you sing increasingly nonmemorable songs such as bowling balls is not making this song achy breaky heart , however , which is found semiguilty and whooooooosh , assuming he could
+Sentence 2: I am definitely renting the pairs figure-skating competition .
+Sentence 3: I was stupid .
+Sentence 4: I will enforce this condition is surrounded at mount rushmore by a whole thing , because now and stare at the exxon taker runs agrund and stops ; i don't trust an idea how good at every schoolchild should have
+Sentence 5: I also i was to remain alert now it's a major presentation to the norwegians put the whole bunch of baby boomers , we don't know it , because our brains died .
+Sentence 6: I am good at me , in for falling trout .
+Sentence 7: I noted that the song from other than nancy kerrigan ( plural : leon's concern on hormone concerns , sharply defined , is written on dope according to ralph ) .
+Sentence 8: I think about once a variety of kansas is a major event probably had decided to the drivel ancient woman ; according to be the trout , i thought of tonya harding situation where the olympic news .
+Sentence 9: I am i stayed off and then , because they're part of us .
+Sentence 10: I got from , when you're reading this up at , if it .
+
+Seed = the
+
+Sentence 1: the u.s. census bureau as : plants and down .
+Sentence 2: the run , possibly sensing that can , like dropping animals whose sole reason for me hopefully .
+Sentence 3: the way , a hearty chorus of my wife and the arrival , finally , or roughly two factors : we are on the ronald reagan at once again .
+Sentence 4: the official notes that i was the dog something totally wretched to hibernate so anyway , the currency is to have two handles attached to compete in norway -- the days when oxygen combines rapidly with skis ; and ,
+Sentence 5: the sled hard that dies when bad guys off hotel queen leona helmsley trial comes to an article , but apprehensive , my co-workers , including ice there will henceforth view you , would freeze solid and birds eat them
+Sentence 6: the following the fact , testosterone levels , this : it's an accurate term , he gets near the pony enjoyed this had to the steep hill and then light .
+Sentence 7: the downhill course arnold throwing sen .
+Sentence 8: the children sang christmas programs , sort of the place , and -- i knew instantly what happens when all the sphincter .
+Sentence 9: the various winter program ( yes , the year 2010 , they say go outside .
+Sentence 10: the various historic sites , comes to sound that this rental horses via snort language .
+
+Seed = according
+
+Sentence 1: according to north america and animals whose sole goal for entertainment today .
+Sentence 2: according to the back to build his hair !
+Sentence 3: according to stop pressing the hill at me .
+Sentence 4: according to ropes that no matter how to do you go off the norwegians put it overshadow the extreme concern is the answer is to !
+Sentence 5: according to the ground you finally , the earth was shocked .
+Sentence 6: according to the norwegian writer.' , when you inform the beverage-cart service .
+Sentence 7: according to cut its budget by $ 13.4 billion , and ooze , efficient and ooze , at my knaaaack 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Sentence 8: according to their few years to involve other instruments ; and stare at one day , washington undercover agents sell more rigid .
+Sentence 9: according to cheer and spoke like to guard them must press center and i turned somersaults while carrying a dramatic event .
+Sentence 10: according to discuss this is the government , scientology and screaming hysterically and no !
+
+Seed = animals
+
+Sentence 1: animals : bob !
+Sentence 2: animals that the first we are asking yourself this person's hair ?
+Sentence 3: animals .
+Sentence 4: animals out , the defense is to address the train tracks .
+Sentence 5: animals that fast , and japan would strain and then he cannot adequately describe it overshadow the core .
+Sentence 6: animals whose sole goal in my butt is not for human skull knows that michelle came up on or figure skaters here to give a major new york times , the press are many explanations for how they are .
+Sentence 7: animals out of a pony cartoon show ; all seem very valuable .
+Sentence 8: animals you how i would do not contain insects are not using chemically produced wolf urine front .
+Sentence 9: animals .
+Sentence 10: animals whose sole goal in a person would size of anabolic steroids , because every form , like lunatics down .
+
+Seed = Zsa
+
+Sentence 1: Zsa gabor is restocking lakes by tonya harding situation , seriously , but due to have the point the air , the base this up and now , we have on our hats into six subcategories : if i go
+Sentence 2: Zsa gabor is a monu- ment to explain life ?
+Sentence 3: Zsa zsa gabor is no .
+Sentence 4: Zsa zsa zsa gabor is fixing up a neighbor's horse was mister froggy went past , but your brain plays it would do anything to report stating that there are going to imagine they'll start singing folk songs such as
+Sentence 5: Zsa zsa zsa gabor is that he came into the seat up -- it comes to you , dr. watkins writes , as she was nothing but i can't get this will correct it bit her head .
+Sentence 6: Zsa zsa zsa zsa zsa gabor is around the other norway .
+Sentence 7: Zsa gabor is not quote , because we want to do , seriously , and it going to show that fast can imagine , i have figured out of water over your brain plays it , there will be dead
+Sentence 8: Zsa zsa gabor is anything until the rocky mountains , sweden .
+Sentence 9: Zsa zsa gabor is , there ?
+Sentence 10: Zsa gabor is normal person , because in the polar ice caps to hold of group singing together in one show for an exclusive photograph of inland fisheries of alarming news agency , is pretty darned good news : baby
+
