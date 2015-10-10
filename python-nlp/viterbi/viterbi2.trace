@@ -1,0 +1,161 @@
+PROCESSING SENTENCE: Bears fish
+
+FINAL VITERBI NETWORK
+P(Bears=noun) = 0.0160000000
+P(Bears=verb) = 0.0020000000
+P(Bears=inf) = 0.0000000100
+P(Bears=prep) = 0.0000000100
+P(fish=noun) = 0.0001232000
+P(fish=verb) = 0.0007280000
+P(fish=inf) = 0.0000000440
+P(fish=prep) = 0.0000004800
+
+FINAL BACKPTR NETWORK
+Backptr(fish=noun) = verb
+Backptr(fish=verb) = noun
+Backptr(fish=inf) = verb
+Backptr(fish=prep) = noun
+
+BEST TAG SEQUENCE HAS PROBABILITY = 0.0007280000
+fish -> verb
+Bears -> noun
+
+FORWARD ALGORITHM RESULTS
+P(Bears=noun) = 0.8888879012
+P(Bears=verb) = 0.1111109877
+P(Bears=inf) = 0.0000005556
+P(Bears=prep) = 0.0000005556
+P(fish=noun) = 0.1447660127
+P(fish=verb) = 0.8545600252
+P(fish=inf) = 0.0000518360
+P(fish=prep) = 0.0006221261
+
+PROCESSING SENTENCE: mark has FIsh
+
+FINAL VITERBI NETWORK
+P(mark=noun) = 0.0720000000
+P(mark=verb) = 0.0060000000
+P(mark=inf) = 0.0000000100
+P(mark=prep) = 0.0000000100
+P(has=noun) = 0.0000004620
+P(has=verb) = 0.0014040000
+P(has=inf) = 0.0000001320
+P(has=prep) = 0.0000021600
+P(FIsh=noun) = 0.0000864864
+P(FIsh=verb) = 0.0000000210
+P(FIsh=inf) = 0.0000000309
+P(FIsh=prep) = 0.0000000351
+
+FINAL BACKPTR NETWORK
+Backptr(FIsh=noun) = verb
+Backptr(FIsh=verb) = noun
+Backptr(FIsh=inf) = verb
+Backptr(FIsh=prep) = verb
+Backptr(has=noun) = verb
+Backptr(has=verb) = noun
+Backptr(has=inf) = verb
+Backptr(has=prep) = noun
+
+BEST TAG SEQUENCE HAS PROBABILITY = 0.0000864864
+FIsh -> noun
+has -> verb
+mark -> noun
+
+FORWARD ALGORITHM RESULTS
+P(mark=noun) = 0.9230766864
+P(mark=verb) = 0.0769230572
+P(mark=inf) = 0.0000001282
+P(mark=prep) = 0.0000001282
+P(has=noun) = 0.0003288884
+P(has=verb) = 0.9979348980
+P(has=inf) = 0.0000943335
+P(has=prep) = 0.0016418801
+P(FIsh=noun) = 0.9988033258
+P(FIsh=verb) = 0.0004357320
+P(FIsh=inf) = 0.0003561110
+P(FIsh=prep) = 0.0004048313
+
+PROCESSING SENTENCE: mark likes to Fish for fiSh
+
+FINAL VITERBI NETWORK
+P(mark=noun) = 0.0720000000
+P(mark=verb) = 0.0060000000
+P(mark=inf) = 0.0000000100
+P(mark=prep) = 0.0000000100
+P(likes=noun) = 0.0000004620
+P(likes=verb) = 0.0000046800
+P(likes=inf) = 0.0000001320
+P(likes=prep) = 0.0000021600
+P(to=noun) = 0.0000000004
+P(to=verb) = 0.0000000000
+P(to=inf) = 0.0000010193
+P(to=prep) = 0.0000003861
+P(Fish=noun) = 0.0000000263
+P(Fish=verb) = 0.0000000535
+P(Fish=inf) = 0.0000000000
+P(Fish=prep) = 0.0000000000
+P(for=noun) = 0.0000000000
+P(for=verb) = 0.0000000000
+P(for=inf) = 0.0000000000
+P(for=prep) = 0.0000000031
+P(fiSh=noun) = 0.0000000002
+P(fiSh=verb) = 0.0000000000
+P(fiSh=inf) = 0.0000000000
+P(fiSh=prep) = 0.0000000000
+
+FINAL BACKPTR NETWORK
+Backptr(fiSh=noun) = prep
+Backptr(fiSh=verb) = noun
+Backptr(fiSh=inf) = verb
+Backptr(fiSh=prep) = noun
+Backptr(for=noun) = verb
+Backptr(for=verb) = noun
+Backptr(for=inf) = verb
+Backptr(for=prep) = verb
+Backptr(Fish=noun) = prep
+Backptr(Fish=verb) = inf
+Backptr(Fish=inf) = inf
+Backptr(Fish=prep) = noun
+Backptr(to=noun) = verb
+Backptr(to=verb) = noun
+Backptr(to=inf) = verb
+Backptr(to=prep) = verb
+Backptr(likes=noun) = verb
+Backptr(likes=verb) = noun
+Backptr(likes=inf) = verb
+Backptr(likes=prep) = noun
+
+BEST TAG SEQUENCE HAS PROBABILITY = 0.0000000002
+fiSh -> noun
+for -> prep
+Fish -> verb
+to -> inf
+likes -> verb
+mark -> noun
+
+FORWARD ALGORITHM RESULTS
+P(mark=noun) = 0.9230766864
+P(mark=verb) = 0.0769230572
+P(mark=inf) = 0.0000001282
+P(mark=prep) = 0.0000001282
+P(likes=noun) = 0.0610006924
+P(likes=verb) = 0.6169744595
+P(likes=inf) = 0.0174965358
+P(likes=prep) = 0.3045283123
+P(to=noun) = 0.0003746130
+P(to=verb) = 0.0000275457
+P(to=inf) = 0.7021518690
+P(to=prep) = 0.2974459723
+P(Fish=noun) = 0.3291436178
+P(Fish=verb) = 0.6708558767
+P(Fish=inf) = 0.0000001844
+P(Fish=prep) = 0.0000003210
+P(for=noun) = 0.0008417336
+P(for=verb) = 0.0003486997
+P(for=inf) = 0.0002405336
+P(for=prep) = 0.9985690332
+P(fiSh=noun) = 0.9987066268
+P(fiSh=verb) = 0.0012921069
+P(fiSh=inf) = 0.0000003262
+P(fiSh=prep) = 0.0000009401
+
